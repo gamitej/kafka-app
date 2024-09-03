@@ -16,7 +16,17 @@
    confluentinc/cp-kafka
    ```
 
-3. Setup admin config in nodejs server run it
+3. Setup 'admin' config in nodejs server run it
    ```
    node admin.js
    ```
+4. Setup 'producers' config in nodejs server run it
+   ```
+   node producers.js
+   ```
+5. Setup 'consumer' config in nodejs server run it
+   ```
+   node consumer.js
+   ```
+
+## Your kafka setup is done
