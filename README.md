@@ -16,7 +16,7 @@
    confluentinc/cp-kafka
    ```
 
-3. Setup admin and it in nodejs server
+3. Setup admin config in nodejs server run it
    ```
    node admin.js
    ```
